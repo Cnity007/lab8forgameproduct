@@ -9,6 +9,7 @@ namespace lab8forgameproduct
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int gay;
+        Texture2D _RealGay;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
