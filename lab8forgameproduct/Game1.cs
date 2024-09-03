@@ -11,6 +11,7 @@ namespace lab8forgameproduct
         int gay;
         Texture2D _RealGay;
         Vector2 _GayPos;
+        int Gayspeed = 5;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
